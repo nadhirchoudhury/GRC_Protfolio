@@ -1,32 +1,41 @@
-# GRC-Portfolio
-A collection of practical cybersecurity governance, risk, and compliance (GRC) projects for demonstration and learning purposes.
-# Governance, Risk, and Compliance (GRC) Portfolio
+# GRC Portfolio
 
-Welcome to my GRC Portfolio. My name is *Darshan Patel*, a recent graduate with a B.S. in Computer and Information Systems from SUNY Old Westbury. I am actively pursuing the ISC2 Certified in Cybersecurity (CC) certification and seeking an entry-level opportunity in cybersecurity — with a specific interest in GRC.
+Welcome to my GRC Portfolio. My name is Nadhir Choudhury and I am actively looking for an entry level role in cybersecurity, specifically in governance, risk, and compliance.
 
-This portfolio showcases practical, hands-on projects that reflect my understanding of key GRC responsibilities including risk management, compliance, policy creation, and security frameworks. These documents are designed to simulate real-world processes and demonstrate my readiness for a professional role in the cybersecurity governance space.
+I come from a healthcare background where I have worked in high responsibility environments that require attention to detail, accountability, and following strict procedures. Through this experience, I developed a strong understanding of how important risk awareness, compliance, and proper documentation are in real world settings. I am now applying that mindset to cybersecurity and building my career in GRC.
 
----
-
-## 📚 Table of Contents
-
-| Project | Description |
-|--------|-------------|
-| [`/policies`](./policies) | A set of foundational corporate security policies (AUP, Password Policy, Data Classification). |
-| [`/risk-assessments`](./risk-assessments) | A fictional HIPAA-focused risk assessment with a formal risk register. |
-| [`/compliance-checklists`](./compliance-checklists) | A NIST Cybersecurity Framework (CSF) implementation checklist. |
+This portfolio reflects the work I have been doing to prepare myself for this field. These are not just theoretical concepts. I created these projects to mirror how GRC work is actually done in organizations. I focused on learning how to identify risks, document them clearly, create policies, and align everything with recognized frameworks and regulations.
 
 ---
 
-## 🚀 Career Goals
+## What I Bring
 
-I am working toward a career in **cybersecurity governance, risk management, and compliance**. I am especially interested in risk analysis, security auditing, regulatory compliance (HIPAA, NIST, ISO), and helping organizations establish strong security programs through documentation, policy, and framework alignment.
-
-I believe GRC is one of the most essential and scalable areas in cybersecurity and I aim to grow as a Security Risk Analyst, GRC Associate, or Compliance Analyst.
+I understand how to think from a risk perspective and identify what could go wrong in an organization
+I can create clear and structured security policies such as acceptable use, password policies, and data classification
+I have knowledge of key frameworks and regulations including NIST, HIPAA, and ISO 27001
+I have strong attention to detail and take documentation seriously
+I bring real world discipline and responsibility from my healthcare experience
 
 ---
 
-## ⚠️ Disclaimer
+## Projects
 
-**Disclaimer:** All documents in this repository are created for educational and demonstration purposes only. They are samples and should not be used in a real production environment.
+In this portfolio, you will find a set of security policies that form the foundation of a corporate security program. You will also see a healthcare focused risk assessment that includes a structured risk register. In addition, there is a compliance checklist based on the NIST Cybersecurity Framework to show how controls are aligned with industry standards.
 
+---
+
+## Career Goal
+
+I am looking for an opportunity as a GRC Analyst, Risk Analyst, or Compliance Analyst where I can start contributing right away. I am ready to support risk assessments, help with compliance efforts, and assist in building and maintaining security documentation.
+
+I am serious about this career path and committed to continuously learning and improving. I am looking for a team that is willing to give me an opportunity to prove myself and grow within the organization.
+
+---
+
+## Disclaimer
+
+All documents in this portfolio are created for learning and demonstration purposes only. They are meant to show my understanding and should not be used in a real production environment.
+
+---
+
+If you want, I can make this even stronger by making it sound like a top 1 percent candidate or tailor it specifically for the exact jobs you are applying to.
