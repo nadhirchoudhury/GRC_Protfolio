@@ -22,9 +22,7 @@ I bring discipline, accountability, and the ability to perform under pressure fr
 
 I have taken steps to build a strong foundation in cybersecurity and GRC:
 
-AI Security and Governance Certification
-GRC Fundamentals – Governance, Risk, and Compliance (Coursera)
-ISC2 Certified in Cybersecurity (CC) – currently in progress
+AI Security and Governance Certification                                                                                                       GRC Fundamentals – Governance, Risk, and Compliance (Coursera)                                                                                ISC2 Certified in Cybersecurity (CC) – currently in progress
 
 ---
 
